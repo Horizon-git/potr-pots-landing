@@ -18,7 +18,7 @@
 <p>I used Swiper library to do gallery on the mobile screens and Javascript for toggling features blocks.</p>
 <p> SEO optimization is done. Accessibility is improved. You can see this google lighthouse report below:</p>
 <p align="center">
-  <img src="https://github.com/Horizon-git/potr-pots-landing/raw/master/src/images/lighthouse.png" alt="lighthouse report">
+  <img src="https://github.com/Horizon-git/potr-pots-landing/blob/master/src/images/lightshot.png" alt="lighthouse report">
 </p>
 
 # Launch Instructions
